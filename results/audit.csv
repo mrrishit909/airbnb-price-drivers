@@ -1,0 +1,42 @@
+check,value
+rows: listings,11295.0
+columns: listings,90.0
+rows: neighbourhoods,44.0
+duplicate ids,0.0
+scrape dates,4.0
+first scrape date,20260622.0
+last scrape date,20260702.0
+prices written as text,10321.0
+"prices not in the form $1,234.56",0.0
+prices blank,974.0
+prices that fail to convert,0.0
+listings with a price,10321.0
+"priced, minimum stay under 30 nights",8889.0
+"priced, short minimum stay, quote of 1 to 7 nights (the sample)",8425.0
+"priced, short minimum stay, quote of 8 nights or more",464.0
+sample: quote shorter than 1 day or negative lead,0.0
+sample: median days from scrape to check-in,3.0
+sample: hosts,4205.0
+sample: listings of hosts with more than one listing,5268.0
+sample: most listings of one host,178.0
+sample: bathrooms blank,712.0
+sample: of which read from the bathrooms text,707.0
+sample: bathrooms still missing,5.0
+sample: bedrooms missing,982.0
+sample: beds missing,352.0
+sample: review score missing,1212.0
+sample: host years missing,4.0
+sample: superhost field missing,4.0
+sample: kinds of property listed,60.0
+sample: zip codes,43.0
+sample: price quote equals the price,8425.0
+sample: zip code used as the reference,78704.0
+sample: kinds of place with their own column,7.0
+sample: columns of the model (without the intercept),89.0
+sample: amenity entries read,387832.0
+columns: quote,8.0
+columns: size,8.0
+columns: type,11.0
+columns: place,42.0
+columns: host and reviews,7.0
+columns: amenities,13.0

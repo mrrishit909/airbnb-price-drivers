@@ -1,0 +1,23 @@
+{
+  "pulled": "2026-10-03",
+  "files": {
+    "listings.csv.gz": {
+      "url": "https://data.insideairbnb.com/united-states/tx/austin/2026-06-22/data/listings.csv.gz",
+      "bytes": 7647862,
+      "rows": 11295,
+      "sha256": "5e2b0267729ea2f6c61c06e58621abae4a88ff852594ad9ccf1dec0a0d4f4c05"
+    },
+    "neighbourhoods.csv": {
+      "url": "https://data.insideairbnb.com/united-states/tx/austin/2026-06-22/visualisations/neighbourhoods.csv",
+      "bytes": 342,
+      "rows": 44,
+      "sha256": "bfb6d8de61576ce0bb988640873e5d15effd7beff702c0287b326c7d4b7f137c"
+    },
+    "neighbourhoods.geojson": {
+      "url": "https://data.insideairbnb.com/united-states/tx/austin/2026-06-22/visualisations/neighbourhoods.geojson",
+      "bytes": 402825,
+      "rows": 44,
+      "sha256": "c52d1724a0ba3e8b3c1183dbb57ee15783b638a3a4c82a14621686147f122833"
+    }
+  }
+}

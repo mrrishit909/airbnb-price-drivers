@@ -1,0 +1,8 @@
+key,value
+sample,8425.0
+median_price,251.0
+mean_price,403.4528949554896
+price_p99,2803.9084000000016
+price_max,58600.5
+r2_full_ols_host,0.6303803026128394
+r2_gbm_host,0.6725667633867864
